@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="net.leksi.contest.assistant">
+    <output-path>$PROJECT_DIR$/out/artifacts/net_leksi_contest_assistant</output-path>
+    <root id="archive" name="net.leksi.contest.assistant.jar">
+      <element id="module-output" name="contest_assistant" />
+      <element id="module-source" name="contest_assistant" />
+    </root>
+  </artifact>
+</component>
